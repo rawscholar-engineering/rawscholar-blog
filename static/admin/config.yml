@@ -4,6 +4,7 @@ backend:
   branch: main
   auth_scope: repo # this is needed to fork the private repo
   open_authoring: true
+  publish_mode: editorial_workflow
 
 media_folder: content/assets
 public_folder: ../assets
