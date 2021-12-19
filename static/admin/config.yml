@@ -2,8 +2,6 @@ backend:
   name: github
   repo: rawscholar-engineering/rawscholar-blog
   branch: main
-  publish_mode: editorial_workflow
-  open_authoring: true
 
 media_folder: content/assets
 public_folder: ../assets
