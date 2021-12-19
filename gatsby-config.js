@@ -1,13 +1,11 @@
 module.exports = {
   siteMetadata: {
-    // edit below
-    title: `Gatsby Starter Personal Blog`,
-    author: `Gatsby`,
-    description: `A starter personal blog with styled components, dark mode, and Netlify CMS.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
-    social: {
-      twitter: `gatsbyjs`,
-    },
+    title: `Blogs by RawScholar`,
+    author: `RawScholar Team`,
+    description: `We write about the latest oportunities in the world of Abroad studies which are really helpful students.`,
+    siteUrl: `https://blog.rawscholar.com`,
+    homePageUrl: `https://rawscholar.com`,
+    social: {},
   },
   plugins: [
     `gatsby-plugin-netlify-cms`,
@@ -114,14 +112,14 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `Blogs by RawScholar`,
+        short_name: `RawScholar Blog`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
         // edit below
-        icon: `content/assets/gatsby-icon.png`,
+        icon: `content/assets/logo-black.png`,
       },
     },
     {
