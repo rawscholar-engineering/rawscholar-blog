@@ -12,7 +12,6 @@ description: "The University of St. Andrews is one of Scotland's oldest
 ---
 THIS BLOG CONTAINS INFORMATION ABOUT THE ST ANDREWS UNIVERSITY
 
-
 1 Rankings of the University of St Andrews
 
 2 Acceptance Rate at the University of St Andrews
@@ -164,4 +163,4 @@ Is there an interview process at St Andrews University?
 
 Although the University of St. Andrews does not conduct interviews with undergraduate applicants on a regular basis, a few course programmes, such as Medicine and BA International Honours, do.
 
-The University of St Andrews is well-known for its varied student body and high-quality academic programmes. Do you want to continue your education at the University of St Andrews? For a free consultation, contact Leverage Edu now. Our qualified specialists will assist you with both the admissions and visa application processes.
+The University of St Andrews is well-known for its varied student body and high-quality academic programmes. Do you want to continue your education at the University of St Andrews? For a free consultation, contact rawscholar now. Our qualified specialists will assist you with both the admissions and visa application processes.
