@@ -80,7 +80,7 @@ To begin the application process, go to UCAS and click "Apply Now" to open the a
 
 Step 1: Go to Brunel University's official website.
 
-Choose a course that interests you and register with UCAS. Use the course finder to locate the course. Before applying, look at the university's placement records, tuition fee breakdown, living costs, course curriculum, and work permit rules. For other students, this may be their first time applying abroad, so if you're having trouble gathering this information, call Leverage Edu at 1800 572 000 and get your questions answered.
+Choose a course that interests you and register with UCAS. Use the course finder to locate the course. Before applying, look at the university's placement records, tuition fee breakdown, living costs, course curriculum, and work permit rules
 
 Step 2: Compile the results of your proficiency exams.
 
@@ -128,4 +128,4 @@ Is Brunel University a good place to study economics?
 
 Employers recognise the analytical, quantitative, and transferable abilities you'll gain with a Brunel degree, and they'll prepare you for a variety of career and graduate possibilities in business, economics, and finance.
 
-We hope you found this information about Brunel University Acceptance Rate useful. Do you want to study at Brunel University London? Start your application process with Leverage Edu professionals by calling 1800 57 2000 and scheduling your free 30-minute consultation today!
+We hope you found this information about Brunel University Acceptance Rate useful. Do you want to study at Brunel University London? Start your application process with Raw scholar.
