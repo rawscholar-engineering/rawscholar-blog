@@ -148,4 +148,4 @@ Ask the experts via the University of Liverpool's #AskTheExperts campaign.
 
 Edutainment on YouTube
 
-As a result, we can conclude that while enrolling at the University of Liverpool is difficult, it is not impossible, and that with hard work and the right resources, you may achieve excellent results. We hope this information on the acceptance rate and the University of Liverpool was helpful. Reach out to the specialists at Leverage Edu on 1800572000 if you have any questions or need assistance with the application process. They can help you secure your admission.
+As a result, we can conclude that while enrolling at the University of Liverpool is difficult, it is not impossible, and that with hard work and the right resources, you may achieve excellent results. We hope this information on the acceptance rate and the University of Liverpool was helpful. Reach out to the specialists at rawscholar
