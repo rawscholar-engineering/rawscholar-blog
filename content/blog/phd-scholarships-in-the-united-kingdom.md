@@ -13,7 +13,6 @@ description: The United Kingdom is one of the most popular higher education
 ---
 PhD Scholarships in the United Kingdom for Indian Students is one of the topics covered in this blog.
 
-
 Scholarships from the Charles Wallace India Trust
 
 Scholarships from the Inlaks Shivdasani Foundation
@@ -194,4 +193,4 @@ How much does a PhD in the United Kingdom cost?
 
 PhD research and funding can be expensive, with EU students paying up to £6,000 per year and international students paying even more. However, it is rare for a PhD student to be financially supported by a bursary, grant, or scholarship, and many institutions and research agencies provide financial support for part or all of a PhD programme.
 
-As a result, this blog has assisted you in learning about the major PhD scholarships available in the United Kingdom for Indian students. Are you having trouble locating the best scholarship for your chosen course? Our Leverage Edu experts can assist you in finding the best scholarship and funding options to help you fund your dream of pursuing a PhD abroad! Today is the last day to sign up for a free career counselling session with us!
+As a result, this blog has assisted you in learning about the major PhD scholarships available in the United Kingdom for Indian students. Are you having trouble locating the best scholarship for your chosen course? Our rawscholar experts can assist you in finding the best scholarship and funding options to help you fund your dream of pursuing a PhD abroad! Today is the last day to sign up for a free career counselling session with us!
