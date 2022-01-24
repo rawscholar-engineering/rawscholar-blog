@@ -16,26 +16,19 @@ THE FACTS AND FIGURES OF THE STUDENT POPULATION ARE INCLUDED IN THIS BLOG:
 
  1 University of Bath Acceptance Rate
 
-
 2 Deadlines for University of Bath Admissions
-
 
 3 Undergraduate Degree Programs
 
-
 4 Postgraduate Studies
-
 
 5 Admissions Criteria
 
-
 6 Documents Application Process Requirements
-
 
 7 UK Visa Requirements for International Students Frequently Asked Questions
 
 Acceptance Rate at the University of Bath
-
 
 This 52-year-old institution maintains a strict admissions criteria based on entrance tests, as well as student performance and grades. The acceptance rate for undergraduate and postgraduate degrees at the University of Bath is between 10% and 20%. This means that just 10 – 20 students are chosen out of 100 applicants, making this UK university a very selective institution. Studying in Bath entails becoming part of a diverse student body. The Guardian University Guide 2021 ranks it #6 in the UK and #9 in the globe, according to the Times Good University Guide 2021.
 
@@ -124,4 +117,4 @@ It is a famous university that has established itself as a top UK university wit
 What is the UK's most difficult university to get into?
 The University of Oxford, University of Cambridge, Imperial College London, University of Leeds, and London School of Economics and Political Sciences are the most difficult to get into.
 
-It was all about the acceptance rate at the University of Bath. Are you thinking about applying to the University of Bath? Our ENEEN end-to-end support will be provided by our Leverage Edu professionals and counsellors.
+It was all about the acceptance rate at the University of Bath. Are you thinking about applying to the University of Bath? Our ENEEN end-to-end support will be provided by our rawscholar professionals and counsellors.
