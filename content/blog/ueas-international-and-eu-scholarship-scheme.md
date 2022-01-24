@@ -13,7 +13,6 @@ THIS BLOG CONTAINS
 
 INFORMATION ABOUT UEA'S ELIGIBILITY FOR INTERNATIONAL AND EU SCHOLARSHIPS.
 
-
 Criteria for Eligibility
 
 Benefits
@@ -26,7 +25,7 @@ The application deadline has passed.
 
 \[Bonus] Scholarships to Study in the United Kingdom
 
-With UEA, you can #AskUsAnything and Leverage Edu Experts!
+With UEA, you can #AskUsAnything and rawscholar Experts!
 
 Eligibility for the International & EU Scholarship at the University of East Anglia
 
@@ -96,6 +95,4 @@ Saltire Scholarships in Scotland
 
 Concerned about the IELTS? Take a free demo class with Leverage Live Experts to learn the best ways to ace the exam in one sitting!
 
-
-
-That's all there is to know about the International & EU Scholarship Program. Scholarships are extremely competitive because they have such a high value in an Indian student's study abroad journey. Do you want to study in the United Kingdom in September? Then give one of our Leverage Edu experts a call and get end-to-end help with your application!
+That's all there is to know about the International & EU Scholarship Program. Scholarships are extremely competitive because they have such a high value in an Indian student's study abroad journey. Do you want to study in the United Kingdom in September? Then give one of our rawscholar experts a call and get end-to-end help with your application!
