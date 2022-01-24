@@ -404,4 +404,4 @@ Why is an MBA so costly?
 
 The MBA is well-known for being one of the most expensive degrees available. Aspirants must pay significant fees to complete the two-year curriculum. As a result, in addition to the B School tuition expenses, the course costs a large amount of money.
 
-This was all about MBA programmes in the United Kingdom for Indian students. Do you want to study in the United Kingdom? Then contact Leverage Edu professionals, who will assist you in obtaining a visa to the United Kingdom so that you can pursue your MBA or other degree abroad. Make an appointment with us right now!
+This was all about MBA programmes in the United Kingdom for Indian students. Do you want to study in the United Kingdom? Then contact rawscholar professionals, who will assist you in obtaining a visa to the United Kingdom so that you can pursue your MBA or other degree abroad. Make an appointment with us right now!
