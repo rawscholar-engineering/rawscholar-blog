@@ -184,7 +184,7 @@ Step 1: Go to the UCAS website and fill out an application.
 
 Your application will be evaluated by the university based on your completed UCAS form. Make a list of all the credentials you have and are working for. You can also inform us about any prior work experience you've had.
 
-To simplify and ease the entire application process for Swansea University, call our Leverage Edu professionals at 1800572000.
+To simplify and ease the entire application process for Swansea University contact our rawscholar
 
 Step 2: Keep an eye on your application.
 
