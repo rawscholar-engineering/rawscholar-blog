@@ -16,7 +16,6 @@ THIS BLOG CONTAINS:
 
 1  Intakes in the United Kingdom
 
-
 2 How many intakes are there in the United Kingdom?
 
 3 Intake in the UK in January/February
@@ -316,7 +315,7 @@ There are two main intakes in the United Kingdom: September/October and January/
 
 Is the January 2022 intake accessible in the United Kingdom?
 
-It's never too late to apply for a position. The majority of UK universities, colleges, and schools offer January admission to international students. Don't hesitate to call Leverage Edu's professionals and counsellors at 1800572000 for further information and assistance!
+It's never too late to apply for a position. The majority of UK universities, colleges, and schools offer January admission to international students. Don't hesitate to contact rawscholar.
 
 When can I apply for UG programmes in September 2022 in the United Kingdom?
 
@@ -330,4 +329,4 @@ Is there a winter intake in the United Kingdom?
 
 Yes! Winter intake is clearly present in the UK, and it is the second-largest intake after the fall intake. The January/February intake is also known as the winter intake.
 
-Intakes in the United Kingdom were the topic of discussion. Are you undecided on which intake to apply for? If you're still unsure about when to apply to universities in the UK, call our Leverage Edu experts at 1800572000 and they'll give you the finest advice on how to get into your dream school! Now is the time to schedule your free 30-minute counselling appointment with us!
+Intakes in the United Kingdom were the topic of discussion. Are you undecided on which intake to apply for? If you're still unsure about when to apply to universities in the UK, contact rawscholarl! Now is the time to schedule your free 30-minute counselling appointment with us!
