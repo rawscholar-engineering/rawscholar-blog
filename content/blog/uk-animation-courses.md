@@ -218,4 +218,4 @@ How much will it cost to study animation in the United Kingdom?
 
 The estimated average tuition fee for courses in the United Kingdom ranges from 15000 to 25000 GBP.
 
-This article was about Animation courses in the United Kingdom. Still have reservations? Get expert advice and organise your career! Reach out to the experts at Leverage Edu for the best answers to all of your career-related questions.
+This article was about Animation courses in the United Kingdom. Still have reservations? Get expert advice and organise your career! Reach out to the experts at Rawscholar for the best answers to all of your career-related questions.
