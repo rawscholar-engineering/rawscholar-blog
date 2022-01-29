@@ -14,6 +14,8 @@ description: "Brunel University London was founded in 1966 and is based in
   about Brunel University's acceptance rate for the upcoming January intake if
   you want to be a part of it!"
 ---
+<!--StartFragment-->
+
 Brunel University Rankings are included in this blog.
 Acceptance Rate at Brunel University
 
@@ -129,3 +131,5 @@ Is Brunel University a good place to study economics?
 Employers recognise the analytical, quantitative, and transferable abilities you'll gain with a Brunel degree, and they'll prepare you for a variety of career and graduate possibilities in business, economics, and finance.
 
 We hope you found this information about Brunel University Acceptance Rate useful. Do you want to study at Brunel University London? Start your application process with Raw scholar.
+
+<!--EndFragment-->
