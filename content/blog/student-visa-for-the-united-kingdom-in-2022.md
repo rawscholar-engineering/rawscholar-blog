@@ -42,7 +42,7 @@ Processing Time for Visas
 
 What is a CAS Letter, and what does it mean?
 
-Leverage Edu can help you fund your dream of studying abroad.
+Rawscholar can help you fund your dream of studying abroad.
 
 Student Life in the United Kingdom
 
@@ -54,7 +54,7 @@ The First and Largest Online University Fair Platform in the World
 
 All Your Study Abroad Needs in One App
 
-Do you wish to study abroad but are unsure where to begin? We've got your back. Download our free Leverage Edu App, which serves as a one-stop shop for all of your study abroad needs. Begin your journey, keep track of your progress, interact with other members of the community, and much more!
+Do you wish to study abroad but are unsure where to begin? We've got your back. Download our free Rawscholar App, which serves as a one-stop shop for all of your study abroad needs. Begin your journey, keep track of your progress, interact with other members of the community, and much more!
 
 Intakes that are popular in the United Kingdom
 
@@ -264,7 +264,7 @@ What is a CAS Letter, and what does it mean?
 
 Confirmation of Acceptance for Studies (CAS) is an acronym for Confirmation of Acceptance for Studies. When a student is accepted into a programme, a CAS is issued by a UK institution. The letter is an important document that must be submitted to your country's visa office when applying for a new Tier 4 student visa. Many universities send out CAS letters after a student pays a small fee that is later deducted from their annual tuition. These charges can range from 0 to 2000 pounds!
 
-Leverage Edu can help you fund your dream of studying abroad.
+Rawscholar can help you fund your dream of studying abroad.
 
 We can help if you want to study abroad but are worried about your finances or are unsure about study loans. Check out leverage finance for no service fees, the best interest rates, comparative analysis, and a slew of other perks. Our forex services allow you to send money internationally in just a few clicks. You can find out if you're eligible by clicking the link below.
 
