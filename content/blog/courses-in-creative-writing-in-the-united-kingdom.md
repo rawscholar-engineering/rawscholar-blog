@@ -90,7 +90,11 @@ The determination, hard effort, and perseverance of creative writers determine t
 
 ![](https://i.ytimg.com/vi/CrW93DE7CDM/hqdefault.jpg)
 
-YouTube: Leverage Edu
+
+
+
+
+
 
 **[Find out Your Dream UK University with this Quiz!](https://leverageedu.com/blog/uk-universities-quiz/)**
 
@@ -134,6 +138,6 @@ Oxford University offers a Master of Studies in Creative Writing which is a tw
 
 You can study journalism, English literature or communications. Check out our blog on **[How to Become a Writer?](https://leverageedu.com/blog/how-to-become-a-writer/)**
 
-In this blog, we learned the basics of Creative Writing and some of the best creative writing courses in the UK. Confused about the right course to pursue and the best-fit university in the United Kingdom? Then, allow our innovative **[AI Course Finder](https://leverageedu.com/course-finder)** to help you solve your problem. Connect with **[Leverage Edu](https://leverageedu.com/)** experts and they can provide you with a free consultation to address all of your questions. So make an appointment for a free consultation today!
+In this blog, we learned the basics of Creative Writing and some of the best creative writing courses in the UK. Confused about the right course to pursue and the best-fit university in the United Kingdom? Then, allow our innovative **[AI Course Finder](https://leverageedu.com/course-finder)** to help you solve your problem. Connect with **[](https://leverageedu.com/)rawscholar** experts and they can provide you with a free consultation to address all of your questions. So make an appointment for a free consultation today!
 
 <!--EndFragment-->
